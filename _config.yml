@@ -21,7 +21,7 @@
 title: Yuniverse
 email: yujunwon27@gmail.com
 # baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://yjunwon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://yujunwon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: yujunwon27
 highlighter: rouge
 svg:
