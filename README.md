@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
+## About Me
+- Name: Yujun Won
