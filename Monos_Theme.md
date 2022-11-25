@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: page
 title: About
-permalink: /about/
----
+permalink: /monos_theme/
+--- -->
 
 ## Theme Monos
 > Simple and lightweight theme for Jekyll
