@@ -23,7 +23,7 @@ email: yujunwon27@gmail.com
 # baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://yujunwon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: yujunwon27
-highlighter: rouge
+# highlighter: rouge
 svg:
   optimize: true
 # Build settings
@@ -34,6 +34,13 @@ plugins:
   - jekyll-feed
 category_dir: category/
 tag_dir: tag/
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
