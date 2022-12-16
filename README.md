@@ -1,8 +1,3 @@
----
-layout: page
-title: About
-permalink: /about/
----
+# Personal Webpage
 
-## About Me
-- Name: Yujun Won
+🌏 Link: https://yujunwon.github.io/
